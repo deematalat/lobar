@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "314501102958",
+    "project_id": "labor-7bc4f",
+    "storage_bucket": "labor-7bc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314501102958:android:e16b3a46f66231ba9bd57f",
+        "android_client_info": {
+          "package_name": "com.example.lobor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314501102958-4p8hvvrt67lv40lk3u6nslnd59n40i21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbylKaqtTZhkH-9e0ib36fXUshm4PQqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314501102958-4p8hvvrt67lv40lk3u6nslnd59n40i21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314501102958-28n87ojpqcnhecdrhmfdvc0q03krhfrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lobor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
