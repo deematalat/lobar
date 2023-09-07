@@ -1,7 +1,7 @@
 # lobor
-
- ![LOBOR](lobar/assets/Frame 7002labor.png)
-
+<br />
+ <img src="lobar/assets/Frame 7002labor.png" alt="LOBOR">
+ 
 
 ## Getting Started
 
