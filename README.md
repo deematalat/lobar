@@ -1,6 +1,6 @@
 # lobor
 <br />
- <img src="lobar/assets/Frame 7002labor.png" alt="LOBOR">
+ <img src="assets/Frame 7002labor.png" alt="LOBOR">
  
 
 ## Getting Started
