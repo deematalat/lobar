@@ -1,4 +1,4 @@
-# lobor
+# labor
 <br />
  <img src="assets/Frame 7002labor.png" alt="LOBOR">
  
